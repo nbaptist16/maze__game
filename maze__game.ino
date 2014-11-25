@@ -168,7 +168,7 @@ void loop()                     // run over and over again
      Tone_Start(ToneFs3, 250);
      (x=3);
      (y=4);
-     (z-144/a);  // to decrease auxLEDs
+     (z = z-144/a);  // to decrease auxLEDs
      (a*2);
    }  
    
